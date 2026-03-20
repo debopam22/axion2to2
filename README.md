@@ -9,6 +9,7 @@ If you use **axion2to2** in your research, please cite:
   year = {2026},
   url = {https://github.com/yourusername/axion2to2}
 }
+```
 
 This package provides calculations of 2-to-2 scattering cross sections and kinematic spectra for axion-related processes, including:
 - Primakoff
